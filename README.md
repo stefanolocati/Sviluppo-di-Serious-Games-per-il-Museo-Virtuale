@@ -75,13 +75,13 @@ Come detto, a differenza del gioco per utenti senza disabilità visive, ci sarà
 Sono state aggiunte delle shortcut da tastiera per facilitare l'interazione tra l'utente e il gioco. 
 Di seguito sono elencati i comandi:
 
-<table>
-+      & Permette di passare alla prossima parola nella lista   
--        & Permette di tornare alla sezione principale   
-.        & Permette di ripetere la definizione e lo stato della risposta 
-1       & Permette di attivare/disattivare la modalità per non vedenti     
-2     & Permette di attivare/disattivare i suoni     
-</table>
+| Comando | Funzione |
+| ------------- | ------------- |
+| +  | Permette di passare alla prossima parola nella lista  |
+| -  | Permette di tornare alla sezione principale |
+| . | Permette di ripetere la definizione e lo stato della risposta  |
+| 1 | Permette di attivare/disattivare la modalità per non vedenti |
+| 2 | Permette di attivare/disattivare i suoni |
 
 Questi comandi non sono attivi solamente in modalità non vedenti, ma possono essere utilizzati come scorciatoie anche nella versione normale. 
 
