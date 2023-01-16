@@ -13,14 +13,15 @@ Dopo che il cursore è stato posizionato su una cella è possibile utilizzare i 
 
 <h2>Comandi</h2>
 
-<table>
-	<tr>$\rightarrow$      & Permette di navigare tra le celle orizzontali spostandosi verso destra   </tr>
-$\rightarrow$      & Permette di navigare tra le celle orizzontali spostandosi verso destra       
-$\leftarrow$        & Permette di navigare tra le celle orizzontali spostandosi verso sinistra     
-$\uparrow$        & Permette di navigare tra le celle verticali spostandosi verso l'alto     
-$\downarrow$      & Permette di navigare tra le celle verticali spostandosi verso il basso     	Doppio click su una cella        & Permette di cambiare l'orientamento di gioco nel caso la cella sia condivisa tra una parola orizzontale e una verticale     
-Click su spazio bianco      & Nasconde la domanda dalla sezione del cruciverba   
-	</table>
+| Comando | Funzione |
+| ------------- | ------------- |
+| $\rightarrow$ | Permette di navigare tra le celle orizzontali spostandosi verso destra |
+| $\leftarrow$ | Permette di navigare tra le celle orizzontali spostandosi verso sinistra |
+| $\uparrow$ | Permette di navigare tra le celle verticali spostandosi verso l'alto  |
+| $\downarrow$ | Permette di navigare tra le celle verticali spostandosi verso il basso |
+| Doppio click su una cella | Permette di cambiare l'orientamento di gioco nel caso la cella sia condivisa tra una parola orizzontale e una verticale |
+| Click su spazio bianco | Nasconde la domanda dalla sezione del cruciverba |
+
 
 Da specificare è il fatto che le funzioni correlate alla pressione delle frecce verticali o orizzontali funzioneranno solo se la navigazione all'interno delle celle contenenti caratteri si svolge in modo corretto. Se, per esempio, siamo in una situazione di orientamento verticale e cerchiamo di cambiare orientamento in orizzontale digitando la freccia a destra o a sinistra, ma la cella adiacente (a destra o a sinistra a seconda del caso) è una cella nera e quindi non selezionabile, l'orientamento non verrà cambiato e verrà fatto un focus sulla prima cella della sequenza. Se, invece, si rispettano le direzioni di navigazione all'interno delle celle abilitate, le frecce consentiranno di cambiare l'orientamento del cruciverba in prossimità delle celle comuni a due parole di orientamento opposto.
 
@@ -48,7 +49,7 @@ Nella versione su Android c'è una piccola differenza rispetto a quella su Apple
 
 In questa appendice è contenuto un manuale di gioco che illustra i comandi utilizzabili nel gioco dell'impiccato, con particolare attenzione alle impostazioni relative alla versione per utenti con disabilità visive, ed una sezione che guida alla creazione di nuove definizioni senza che l'utente abbia conoscenze in ambito programmazione.
 
-<h2>Comand</h2>
+<h2>Comandi</h2>
 A differenza del cruciverba, che ha una versione per PC leggermente differente da quella per dispositivi mobili, il gioco dell'impiccato è identico per tutti i dispositivi attraverso il quale si interagisce.
 Come per il cruciverba, dalla Home è possibile accedere alla schermata di gioco dopo aver cliccato sull'apposito pulsante. 
 
