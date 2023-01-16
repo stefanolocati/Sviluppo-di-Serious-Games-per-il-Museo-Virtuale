@@ -37,7 +37,7 @@ Per un'esperienza più fluida di gioco non sono ammessi spazi tra le parole ne c
 La versione da PC può essere utilizzata come versione da Mobile e non viceversa. Questa funzione si ottiene riducendo le dimensioni della finestra di gioco, sia che questa azione venga fatta manualmente riducendo la finestra o sia che venga fatta da console del browser.
 
 <p align="center">
-![Clues Icon](https://user-images.githubusercontent.com/59931596/212646513-ef68235e-269e-42d2-88a7-17bd70d489e8.png)
+<img src="https://user-images.githubusercontent.com/59931596/212646513-ef68235e-269e-42d2-88a7-17bd70d489e8.png">
 	</p>
 
 
@@ -59,8 +59,10 @@ Come per il cruciverba, per tornare nella Home sarà necessario cliccare sul pul
 <h2>Versione per utenti con disabilità visive</h2>
 Per accedere alle impostazioni della versione per utenti con disabilità visive è necessario posizionarsi sul pulsante raffigurante un ingranaggio e cliccare su di esso. 
 
-![impostazioni](https://user-images.githubusercontent.com/59931596/212646663-e538efc6-0838-4f41-8d0f-f326906c097b.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59931596/212646663-e538efc6-0838-4f41-8d0f-f326906c097b.png">
+	</p>
+	
 Dopo la comparsa del menù a tendina, cliccando sul pulsante con l'icona dello speaker, sarà possibile attivare o disattivare i suoni, i quali vengono riprodotti nel momento in cui viene immessa una lettera corretta o sbagliata, quando si indovina l'intera parola o quando si finiscono i tentativi. 
 Schiacciando il pulsante raffigurante l'icona dell'occhio sarà possibile passare in modalità non vedente, con conseguente disattivazione della tastiera virtuale e attivazione del motore Text-to-Speech per ricordare all'utente quanti errori può ancora fare e in che posizione si trovano le lettere indovinate ed eventuali spazi.
 Infine, spostandosi sulla casella sottostante, sarà possibile selezionare un diverso motore di sintesi da quello impostato di default dal browser, oltre a modificare la velocità di riproduzione della sintesi vocale tramite lo slider posizionato appena al di sotto. I parametri di modifica dello slider vanno da un velocità minima di 0.5x ad una velocità massima di 2.0x.
