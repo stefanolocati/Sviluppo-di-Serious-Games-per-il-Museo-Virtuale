@@ -3,14 +3,7 @@ Sviluppo di un cruciverba per valorizzare il contenuto artistico del Museo Virtu
 
 Tirocinio per la Tesi di Laurea di Informatica Musicale
 
-% 
-%			APPENDICE: materiali aggiuntivi e dimostrazioni
-% 
-
-\appendix
-\label{appendix:manuale_di_gioco}
-
-\chapter{Manuale di gioco del cruciverba}
+<h1>Manuale di gioco del cruciverba</h1>
 In questa appendice è contenuto un manuale di gioco che illustra i comandi utilizzabili nella versione PC e Mobile del cruciverba, un piccolo paragrafo che descrive la piccola differenza che c'è tra la versione Android e la versione iOS ed infine una sezione che guida alla creazione di un nuovo cruciverba senza che l'utente abbia conoscenze in ambito programmazione.
 
 \section{Versione PC}
