@@ -6,18 +6,14 @@ Tirocinio per la Tesi di Laurea di Informatica Musicale
 <h1>Manuale di gioco del cruciverba</h1>
 In questa appendice è contenuto un manuale di gioco che illustra i comandi utilizzabili nella versione PC e Mobile del cruciverba, un piccolo paragrafo che descrive la piccola differenza che c'è tra la versione Android e la versione iOS ed infine una sezione che guida alla creazione di un nuovo cruciverba senza che l'utente abbia conoscenze in ambito programmazione.
 
-\section{Versione PC}
+<h2>Versione PC</h2>
 Una volta scelto il cruciverba cliccando su uno dei bottoni presenti nella sezione principale, l'utente verrà indirizzato alla sezione contenente il gioco. A questo punto, l'utente potrà iniziare a digitare i caratteri solo dopo aver posizionato il cursore su una cella. Questo passo può essere fatto cliccando su una qualsiasi cella o su una delle domande presenti nell'elenco.
 
-Dopo che il cursore è stato posizionato su una cella è possibile utilizzare i comandi presenti in tabella \ref{tab:comandicruciverba}.
+Dopo che il cursore è stato posizionato su una cella è possibile utilizzare i comandi.
 
-\subsection{Comandi} 
+<h2>Comandi<h2>
 
-\begin{table}[htbp]
-\centering
-\begin{tabular}{|l|p{0.6\linewidth}|}
-\hline
-\multicolumn{1}{|c|}{\textit{\textbf{Comando}}} & \multicolumn{1}{c|}{\textit{\textbf{Funzione}}}                                                   \tabularnewline \hline
+<table>
 $\rightarrow$      & Permette di navigare tra le celle orizzontali spostandosi verso destra       \tabularnewline \hline
 $\leftarrow$        & Permette di navigare tra le celle orizzontali spostandosi verso sinistra     \tabularnewline \hline
 $\uparrow$        & Permette di navigare tra le celle verticali spostandosi verso l'alto     \tabularnewline \hline
@@ -26,7 +22,7 @@ Click su spazio bianco      & Nasconde la domanda dalla sezione del cruciverba \
 \end{tabular}
 \caption{Tabella che schematizza alcuni comandi affiancandoli alla loro funzione}
 \label{tab:comandicruciverba}   
-\end{table}
+	</table>
 
 Da specificare è il fatto che le funzioni correlate alla pressione delle frecce verticali o orizzontali funzioneranno solo se la navigazione all'interno delle celle contenenti caratteri si svolge in modo corretto. Se, per esempio, siamo in una situazione di orientamento verticale e cerchiamo di cambiare orientamento in orizzontale digitando la freccia a destra o a sinistra, ma la cella adiacente (a destra o a sinistra a seconda del caso) è una cella nera e quindi non selezionabile, l'orientamento non verrà cambiato e verrà fatto un focus sulla prima cella della sequenza. Se, invece, si rispettano le direzioni di navigazione all'interno delle celle abilitate, le frecce consentiranno di cambiare l'orientamento del cruciverba in prossimità delle celle comuni a due parole di orientamento opposto.
 
